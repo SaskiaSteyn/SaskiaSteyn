@@ -18,9 +18,6 @@
 - 📚 Lifelong learner with a love for **design thinking** and meaningful products  
 - 🌐 Portfolio → [saskiasteyn.co.za](https://saskiasteyn.co.za)
 
-## 📈 GitHub Stats
-![Saskia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaskiaSteyn&show_icons=true&theme=default&hide_title=true)
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saskiasteyn/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://saskiasteyn.co.za/)
