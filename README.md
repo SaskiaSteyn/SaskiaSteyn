@@ -1,6 +1,6 @@
 # Hi there, I'm Saskia 👋
 
-🎨 **Creative Developer | UX/UI Designer | Digital Experience Builder**  
+🎨 **Software Engineer | UX/UI Designer**  
 💡 With a background in governance, PR writing, and now software development, I wear many hats—blending code and design to craft intuitive, story-driven digital experiences.
 
 ## 💻 Tech Stack
@@ -13,9 +13,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ## ✨ About Me
-- 🧠 Currently finishing my **BIS Multimedia** degree at University of Pretoria  
-- 💼 Freelancing as a **Frontend Developer and UX/UI Designer**  
-- 🌍 Fluent in **Spanish**, passionate about creating inclusive, global user experiences  
+- 🧠 Currently finishing my **BIS Multimedia Hons** degree at University of Pretoria  
+- 💼 Working as a **Software Engineer** and **UX/UI Designer**   
 - 📚 Lifelong learner with a love for **design thinking** and meaningful products  
 - 🌐 Portfolio → [saskiasteyn.co.za](https://saskiasteyn.co.za)
 
